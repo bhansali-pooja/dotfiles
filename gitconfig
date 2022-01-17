@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pbhansali05@gmail.com
+	name = ( Pooja Bhansali ) pbhansali05@gmail.com
